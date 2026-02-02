@@ -1,4 +1,4 @@
-# Predictive Maintenance Analysis (Non-ML)
+# Predictive Maintenance Analysis 
 
 ## Project Overview
 This project analyzes industrial machine sensor data to understand operating conditions associated with machine failures. The analysis focuses on identifying high-risk patterns using statistical thresholds and exploratory data analysis, without applying machine learning models.
