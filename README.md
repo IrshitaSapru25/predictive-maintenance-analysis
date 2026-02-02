@@ -8,7 +8,7 @@ This project analyzes machine sensor data to identify operating conditions assoc
 ## Tech Stack
 - **Python** (Pandas, Seaborn, Matplotlib)
 - **Jupyter Notebook**
-- **Data Source**: AI4I 2020 Predictive Maintenance Dataset (Kaggle)
+- **Data Source**: AI4I 2020 Predictive Maintenance Dataset (<a href="https://github.com/IrshitaSapru25/FnP-Sales-Analysis/blob/main/customers.csv">UCI</a>)
 
 ---
 
