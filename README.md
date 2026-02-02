@@ -19,6 +19,28 @@ This project analyzes machine sensor data to identify operating conditions assoc
 - Visualized failure indicators using heatmaps and boxplots for pattern detection
 
 ---
+## Exploratory Data Visualizations
+
+### Correlation Heatmap
+The heatmap highlights relationships between sensor variables and machine failure, helping identify which measurements tend to move together under failure conditions.
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### Air Temperature vs Machine Failure
+This boxplot compares air temperature distributions for failed and non-failed machines to identify temperature-related risk patterns.
+
+![Air Temperature Boxplot](images/air_temp_boxplot.png)
+
+---
+
+### Torque vs Machine Failure
+This visualization shows how torque levels differ between failed and healthy machines, indicating potential mechanical stress risks.
+
+![Torque Boxplot](images/torque_boxplot.png)
+
+---
 
 ## Risk Analysis
 - Defined high-risk operating conditions using percentile-based thresholds on sensor values
